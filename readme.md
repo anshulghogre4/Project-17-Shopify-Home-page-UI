@@ -8,16 +8,16 @@
 
 ## Key Learnings from the project
 
-- _Learned in depth understanding of Tailwind CSS._
-- _Learned abourt diffrent breakpoints that can be applied simultaneuosly._
+- _Learned in-depth understanding of Tailwind CSS._
+- _Learned about different breakpoints that can be applied simultaneously._
 - _Learned Sticky Position properties._
-- _Got the expierence of making a detailed website._
+- _Got the experience of making a detailed website._
 
 ---
 
 ### Screenshots:-
 
-![Project16](./a17.png)
+![Project17](./a17.png)
 
 ---
 
@@ -25,6 +25,6 @@
 
 ---
 
-## [Live-Link](https://project-16-paytm-home-page-ui.netlify.app/)
+## [Live-Link](https://project-17-shopify-home-page-ui.netlify.app/)
 
 ---
